@@ -1,0 +1,6 @@
+Graphical User Interface
+Java Virtual Machine
+Dynamic Host Configuration Protocol
+Domain Name Service
+Universal Resource Locator
+Application Processing Interface
